@@ -1,0 +1,68 @@
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.AssemblyReference.cache
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KayitForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursDetayForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.MainForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.Properties.Resources.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.GenerateResource.cache
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.CoreCompileInputs.cache
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe.config
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.pdb
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.exe
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.pdb
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.GirisForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenGirisForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenForm.resources
+C:\Users\Burak Yılmaz\source\repos\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursNotlariForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.AssemblyReference.cache
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.GirisForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KayitForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursDetayForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursNotlariForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.MainForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenGirisForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.GenerateResource.cache
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.exe
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.pdb
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe.config
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.pdb
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.Properties.Resources.resources
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.CoreCompileInputs.cache
+C:\Users\umuty\OneDrive\Masaüstü\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.kursEkleme.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe.config
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.pdb
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.AssemblyReference.cache
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.GirisForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KayitForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursDetayForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.kursEkleme.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursNotlariForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.MainForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenGirisForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.Properties.Resources.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.GenerateResource.cache
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.CoreCompileInputs.cache
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.exe
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\onlineegitimplatformu\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.pdb
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe.config
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.exe
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\bin\Debug\onlineegitimplatformu.pdb
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.AssemblyReference.cache
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.GirisForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KayitForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursDetayForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.kursEkleme.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.KursNotlariForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.MainForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\OnlineEgitimPlatformu.OgretmenGirisForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.Properties.Resources.resources
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.GenerateResource.cache
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.csproj.CoreCompileInputs.cache
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.exe
+C:\Users\umuty\OneDrive\Masaüstü\BurakProje\onlineegitimplatformu\onlineegitimplatformu\obj\Debug\onlineegitimplatformu.pdb
