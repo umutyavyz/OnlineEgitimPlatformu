@@ -1,41 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\",
+  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\kursdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\kursdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\burakproje\\onlineegitimplatformu\\onlineegitimplatformu\\kursdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\kursdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\kursdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\burakproje\\onlineegitimplatformu\\onlineegitimplatformu\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\burakproje\\onlineegitimplatformu\\onlineegitimplatformu\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\kayitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\burakproje\\onlineegitimplatformu\\onlineegitimplatformu\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7FAB87-554B-446C-9B45-6DA2EFBAD1B7}|onlineegitimplatformu\\onlineegitimplatformu.csproj|solutionrelative:onlineegitimplatformu\\ogretmenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,16 +42,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KursDetayForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KursDetayForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\KursDetayForm.cs",
               "RelativeDocumentMoniker": "onlineegitimplatformu\\KursDetayForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KursDetayForm.cs*",
-              "RelativeToolTip": "onlineegitimplatformu\\KursDetayForm.cs*",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\KursDetayForm.cs",
+              "RelativeToolTip": "onlineegitimplatformu\\KursDetayForm.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAWwDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T16:22:52.316Z",
@@ -63,102 +59,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KursDetayForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KursDetayForm.cs",
-              "RelativeDocumentMoniker": "onlineegitimplatformu\\KursDetayForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KursDetayForm.cs [Tasar\u0131m]*",
-              "RelativeToolTip": "onlineegitimplatformu\\KursDetayForm.cs [Tasar\u0131m]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T02:15:51.762Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "KayitForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KayitForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\KayitForm.cs",
               "RelativeDocumentMoniker": "onlineegitimplatformu\\KayitForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KayitForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\KayitForm.cs",
               "RelativeToolTip": "onlineegitimplatformu\\KayitForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T16:05:24.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KayitForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KayitForm.cs",
-              "RelativeDocumentMoniker": "onlineegitimplatformu\\KayitForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KayitForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "onlineegitimplatformu\\KayitForm.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T02:09:41.103Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-17T16:05:24.52Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "KayitForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\KayitForm.cs",
+              "RelativeDocumentMoniker": "onlineegitimplatformu\\KayitForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KayitForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\KayitForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:09:41.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GirisForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\GirisForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\GirisForm.cs",
               "RelativeDocumentMoniker": "onlineegitimplatformu\\GirisForm.cs",
               "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\GirisForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "onlineegitimplatformu\\GirisForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\GirisForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T16:01:01.336Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OgretmenForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\OgretmenForm.cs",
-              "RelativeDocumentMoniker": "onlineegitimplatformu\\OgretmenForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\OgretmenForm.cs",
-              "RelativeToolTip": "onlineegitimplatformu\\OgretmenForm.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAtwHcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:55:58.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GirisForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\GirisForm.cs",
-              "RelativeDocumentMoniker": "onlineegitimplatformu\\GirisForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\GirisForm.cs",
-              "RelativeToolTip": "onlineegitimplatformu\\GirisForm.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAlwEgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T02:16:44.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T16:01:01.336Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OgretmenForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\OgretmenForm.cs",
+              "Title": "OgretmenForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\OgretmenForm.cs",
               "RelativeDocumentMoniker": "onlineegitimplatformu\\OgretmenForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\OgretmenForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "onlineegitimplatformu\\OgretmenForm.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\OgretmenForm.cs",
+              "RelativeToolTip": "onlineegitimplatformu\\OgretmenForm.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAtwHcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:39:47.715Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-17T15:55:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GirisForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\GirisForm.cs",
+              "RelativeDocumentMoniker": "onlineegitimplatformu\\GirisForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\GirisForm.cs",
+              "RelativeToolTip": "onlineegitimplatformu\\GirisForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAlwEgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:16:44.732Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "OgretmenForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\OgretmenForm.cs",
+              "RelativeDocumentMoniker": "onlineegitimplatformu\\OgretmenForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\OgretmenForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\OgretmenForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:39:47.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\OnlineEgitimPlatformu\\onlineegitimplatformu\\MainForm.cs",
               "RelativeDocumentMoniker": "onlineegitimplatformu\\MainForm.cs",
               "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\MainForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "onlineegitimplatformu\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\BurakProje\\onlineegitimplatformu\\onlineegitimplatformu\\MainForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:27:42.964Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-17T11:27:42.964Z"
             }
           ]
         }
